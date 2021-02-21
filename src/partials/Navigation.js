@@ -3,7 +3,6 @@ import React from "react";
 
 export default function Navigation() {
 	const navigations = [
-		{ title: "Home", link: "#" },
 		{ title: "About Us", link: "#" },
 		{ title: "Contact Us", link: "#" },
 	];

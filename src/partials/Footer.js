@@ -16,9 +16,10 @@ export default function Footer() {
 							/>
 						</p>
 						<p>
-							Lorem ipsum dolor sit amet nsectetur cing elit. Suspe ndisse
-							suscipit sagittis leo sit met entum estibulum dignissim posuere
-							cubilia deleniti atque corrupti quos dolores vero eos et accusamu.
+							We aim to get you to your peak by improving your confidence in
+							speaking English language. We offer the following courses:
+							Emergent Reading Program (Phonics) Pronunciation Training and
+							Vocabulary Enrichment Program IELTS Speaking Exercise
 						</p>
 					</Box>
 

@@ -205,18 +205,20 @@ ul#navigation {
 	color: #ffffff;
 }
 
-.action_icon {
+/* .action_icon {
 	width: 60px;
 	height: 60px;
 	margin-bottom: 50px;
-}
+} */
+
 .action_area h1 {
 	color: #fff199;
 }
 
 .testimonial_wrap {
 	width: 100%;
-	padding: 20px;
+	padding-top: 20px;
+	padding-bottom: 100px;
 	background-color: #fbfbfb;
 }
 
@@ -298,7 +300,7 @@ ul#navigation {
 	width: 100%;
 	padding: 20px;
 	background-color: #3d3d47;
-	font-size: 12px;
+	font-size: 13px;
 	color: rgba(255, 255, 255, 0.3);
 }
 
